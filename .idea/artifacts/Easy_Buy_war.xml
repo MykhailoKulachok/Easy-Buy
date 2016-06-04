@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Easy-Buy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LuckyPets.war">
+      <element id="artifact" artifact-name="Easy-Buy:war exploded" />
+    </root>
+  </artifact>
+</component>
